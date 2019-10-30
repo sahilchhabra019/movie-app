@@ -1,0 +1,6 @@
+@import url("global.css");
+
+.menu{
+    width:100%;
+    background-color:var(--dark-black);
+}
